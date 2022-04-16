@@ -4,7 +4,7 @@ All The HTML/CSS Project Repositories
 
 |  #  | Project                                                                                 | Live Demo                                                           |
 | :-: | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 01  | [Netflix Form](https://github.com/keremilhan/netflix-form)                              | [Webpage](hhttps://keremilhan.github.io/netflix-form/)              |
+| 01  | [Netflix Form](https://github.com/keremilhan/netflix-form)                              | [Webpage](https://keremilhan.github.io/netflix-form/)              |
 | 02  | [Chechout Form](https://github.com/keremilhan/Checkout-Form)                            | [Webpage](https://keremilhan.github.io/Checkout-Form/)              |
 | 03  | [Website Page Design](https://github.com/keremilhan/website-design-project)             | [Webpage](https://keremilhan.github.io/website-design-project)      |
 | 04  | [Team Members Page](https://github.com/keremilhan/Team-Members-Project)                 | [Webpage](https://keremilhan.github.io/Team-Members-Project/)       |
